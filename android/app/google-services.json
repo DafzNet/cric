@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "852712229601",
+    "project_id": "awids-c335f",
+    "storage_bucket": "awids-c335f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852712229601:android:41044305c008b6238d45a0",
+        "android_client_info": {
+          "package_name": "com.cric.awids"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "852712229601-jqe7bcph4tekpmhum3f8lt326broks26.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cric.awids",
+            "certificate_hash": "6f74834ac5697050cfac1a2f9eaabe2b5ce6d48c"
+          }
+        },
+        {
+          "client_id": "852712229601-9b0k3mqissb7jod136hjakfam8aldfh6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChU6p9iYwOaayzcAaEnDzTYdSioD1Klqo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "852712229601-9b0k3mqissb7jod136hjakfam8aldfh6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
